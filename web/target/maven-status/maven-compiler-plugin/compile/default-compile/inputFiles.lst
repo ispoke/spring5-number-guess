@@ -1,0 +1,10 @@
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/WebMain.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/controller/GameController.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/util/GameMappings.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/util/AttributeNames.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/config/WebConfig.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/util/thymeleaf/DecoupledLogicSetup.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/util/ViewNames.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/service/GameServiceImpl.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/service/GameService.java
+/home/francine/Dev/code/spring-5-projects/guess-the-number-game/web/src/main/java/learn/spring5/interceptor/RequestInterceptor.java

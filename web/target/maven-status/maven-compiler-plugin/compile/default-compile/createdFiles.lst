@@ -1,0 +1,10 @@
+learn/spring5/util/AttributeNames.class
+learn/spring5/service/GameService.class
+learn/spring5/interceptor/RequestInterceptor.class
+learn/spring5/util/ViewNames.class
+learn/spring5/WebMain.class
+learn/spring5/util/GameMappings.class
+learn/spring5/service/GameServiceImpl.class
+learn/spring5/config/WebConfig.class
+learn/spring5/controller/GameController.class
+learn/spring5/util/thymeleaf/DecoupledLogicSetup.class

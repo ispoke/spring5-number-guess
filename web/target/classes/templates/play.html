@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head id="headId">
+    <meta charset="UTF-8">
+    <title>Number Game</title>
+</head>
+<body>
+    <div align="center">
+        <h1 id="game-title">Play Guess the Number Game</h1>
+<!-- Using locale preocessing. Messages in core/src/main/resources/ResourcesBundle messages
+     thymeleaf expression in play.th.xml
+     In order to activate locale processing in spring application need to add two properties to
+     the applications.properties file in our web module -->
+        <h3 id="main-message">
+            Main Message Content
+        </h3>
+        <h3 id="result-message">
+            Result Message Content
+        </h3>
+
+        <form id="game-form"
+              action="play" method="post">
+            <label id="enter-guess" for="guess">Enter your guess</label>
+            <input id="guess" type="number" name="guess"/> <!-- name is used as a request parameter -->
+            <input id="submit" type="submit" value="Submit"/>
+        </form>
+
+        <footer id="footerId">
+            <p>Created by francine@myBigToe</p>
+        </footer>
+
+    </div>
+</body>
+</html>
